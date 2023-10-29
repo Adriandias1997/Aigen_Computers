@@ -1,4 +1,4 @@
-Aigen Computers - Final Project 
+Aigen Computers
 
 
-![](images/screenshot.png)
+During our pursuit of a BSc in Software Engineering, our group embarked on an exciting and transformative project, aptly named 'Aigen Computers.' This ambitious undertaking reached its final commit three years ago, marking a significant milestone in our journey. Drawing on a comprehensive toolkit encompassing PHP, HTML, CSS, JavaScript, and MySQL, we meticulously crafted various project components. From the user-centric realms of customer interaction, login and registration systems, to the intricate backend mechanisms handling product details, shopping cart functionality, and payment processing, 'Aigen Computers' encapsulates our commitment to the software engineering field. The 'Admin' segment empowers administrative control, while 'contact_us.php' bridges communication with users. Our 'logout' feature ensures smooth user transitions, and 'all_products.php' showcases our product catalog. 'Aigen Computers' remains a testament to our passion for innovation and technology, illustrating how our group's collaboration can transform academic endeavors into remarkable projects.
